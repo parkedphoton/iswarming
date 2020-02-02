@@ -21,5 +21,7 @@ $ python iswarming_0.py
 ```
 
 
+Here is the blog post on this experiment: <https://parkedphoton.com/2020/02/02/anova-and-global-warming/>
+
 
 
